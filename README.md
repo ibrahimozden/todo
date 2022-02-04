@@ -34,7 +34,11 @@ Git clone the repo
 ```sh
 git clone https://github.com/ibrahimozden/todo.git
 ```
+Then cd into the folder with this command-
 
+```sh
+cd laravel-crud
+```
 Install Project dependencies
 
 ```sh
